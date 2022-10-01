@@ -1,0 +1,61 @@
+*{
+	margin:0;
+	padding:0;
+}
+main{
+	width:100%;
+	background-color:#f8f8ff;
+}
+section{
+	width:100%;
+}
+.cadinater{
+	width:90%;
+	height:100vh;
+	margin-left:70px;
+	display:flex;
+}
+.img{
+	background:url(image/about.jpg);
+	background-size:cover;
+	width:40%;
+	height:50vh;
+	margin:10px;
+	margin-top:120px;
+}
+.letter{
+	width:50%;
+	height:50vh;
+	margin-top:120px;
+}
+h2{
+	font-family:"poppins";
+	font-size:24px;
+}
+h4{
+	font-family:"poppins";
+	font-size:16px;
+}
+p{
+ 	font-family:"poppins";
+	font-size:11px;
+	color:#808080;
+}
+.header{
+	padding:15px 10px;
+}
+.name{
+	display:flex;
+}
+.logo{
+	padding:10px;
+	display:flex;
+}
+.page{
+	display:flex;
+}
+.icon{
+	font-size:35px;
+	color:orange;
+	margin:10px;
+}
